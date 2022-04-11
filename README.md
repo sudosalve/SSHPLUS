@@ -5,4 +5,4 @@ apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/sudosa
 
 #Acessa Root
 
-wget https://raw.githubusercontent.com/kiritosshxd/SSHPLUS/master/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
+wget https://raw.githubusercontent.com/sudosalve/SSHPLUS/master/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
